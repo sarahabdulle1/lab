@@ -37,3 +37,7 @@
 * `git push` - 
 * `git commit -m"[enter a message]"` - save the work 
   * > `git commit` requires a message 
+  
+#### Gitignore files 
+* `.gitignore` - ignore a file you have intentionally left untracked
+* 
