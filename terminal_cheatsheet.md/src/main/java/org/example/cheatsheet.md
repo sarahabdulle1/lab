@@ -9,6 +9,9 @@
   * > The syntax is `mv` `file name` `new location`.
 * `rm` - permanently remove a file (it cannot be found in the bin)
   * `rm -r` - if you try to `rm` a directory you will get an error so use `-r` after
+    * use `rm -r` to remove a folder
+        * `rm -f .git` 
+    * use `rm -f` to remove a file
   * > You need a whitespace between `rm` and `-r`.
 * `.` - everything
 * `ls` - list 
